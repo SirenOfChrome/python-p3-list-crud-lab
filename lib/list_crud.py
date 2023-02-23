@@ -28,4 +28,4 @@ def retrieve_element_from_index(l, index):
 
 def retrieve_last_element_from_list(l):
     return l[-1]
-#GDC
+#GDC6
